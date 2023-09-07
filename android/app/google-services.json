@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1060926334249",
+    "project_id": "pocket01-c8f07",
+    "storage_bucket": "pocket01-c8f07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060926334249:android:5d24c9fe1f1b5f90520338",
+        "android_client_info": {
+          "package_name": "com.levi.pocket01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060926334249-qn6tot4rercjnrs9e4tl05l6g3uv2s59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6D6HsIJaAusdKmXXyqY5QGJznu1DyQkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060926334249-qn6tot4rercjnrs9e4tl05l6g3uv2s59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
